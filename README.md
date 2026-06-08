@@ -140,11 +140,10 @@ Customer-Spending-Analysis/
 └── outputs/
     ├── visualizations/
     └── analysis_results/
+```
 
+## 🚀 Future Improvements
 
----
-
-## <b>🚀 Future Improvements</b>
 * **Apply K-Means clustering** for automated customer behavioral segmentation.
 * **Build predictive machine learning models** (such as Linear Regression or Random Forests) to forecast spending behavior based on demographic factors.
 * **Develop interactive business intelligence dashboards** using Power BI or Tableau for real-time customer data exploration.
@@ -152,5 +151,7 @@ Customer-Spending-Analysis/
 
 ---
 
-## <b>✍️ Author</b>
-**Sidharth Jain** *Data Analysis Mini Project*
+## ✍️ Author
+**Sidharth Jain** 
+
+Data Analysis Mini Project
